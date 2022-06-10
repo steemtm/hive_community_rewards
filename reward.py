@@ -13,7 +13,7 @@ ignored = [] # Blacklist to ignore giving rewards
 beem_unlock_pass = "" # Password to unlock BEEM
 mongo_db = "" # Mongo URL (starts with mongodb+srv://)
 community_mongo = "" # Name for within DB 
-# change line 76 to change message of completion in discord
+# change line 77 to change message of completion in discord
 
 
 def sh():
